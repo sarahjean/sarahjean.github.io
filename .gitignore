@@ -1,1 +1,18 @@
-.vagrant
+# Dependencies
+/node_modules
+
+# Misc
+/public
+
+# Intellij
+/.idea
+
+# Sass
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# Visual Studio Code
+/.vscode
+.history
